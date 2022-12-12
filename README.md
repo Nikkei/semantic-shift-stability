@@ -55,9 +55,13 @@ The figure shows the procedure to calculate Semantic Shift Stability from two co
   author = "Shotaro Ishihara and 
       Hiromu Takahashi and
       Hono Shirai",
-  booktitle = "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing",
+  booktitle = "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+  month = nov,
   year = "2022",
-  note = "to appear"
+  address = "Online only",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2022.aacl-main.17",
+  pages = "205--216",
 }
 
 @InProceedings{Takahashi_nlp2022,
