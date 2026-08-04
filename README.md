@@ -1,5 +1,10 @@
 # Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models
 
+> [!NOTE]
+> **This repository is archived and is no longer maintained.**
+> The code is kept publicly available as-is, for reference and for the reproducibility of the publications listed in [Reference](#reference).
+> Issues and pull requests are no longer accepted. Please feel free to fork the repository if you would like to build on this work.
+
 This repository provides the implementation for calculating *Semantic Shift Stability*.
 It takes two Word2vec embeddings of `gensim` as input and returns a value for the degree of semantic shift.
 The smaller the value, the greater the semantic shift.
